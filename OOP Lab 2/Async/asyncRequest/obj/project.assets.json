@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\laba_oop2\\asyncRequest\\asyncRequest\\asyncRequest.csproj",
+      "projectUniqueName": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\OOP LABS\\OOP Lab 2\\Async\\asyncRequest\\asyncRequest.csproj",
       "projectName": "asyncRequest",
-      "projectPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\laba_oop2\\asyncRequest\\asyncRequest\\asyncRequest.csproj",
+      "projectPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\OOP LABS\\OOP Lab 2\\Async\\asyncRequest\\asyncRequest.csproj",
       "packagesPath": "C:\\Users\\akryl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\laba_oop2\\asyncRequest\\asyncRequest\\obj\\",
+      "outputPath": "C:\\Users\\akryl\\OneDrive\\Рабочий стол\\OOP LABS\\OOP Lab 2\\Async\\asyncRequest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akryl\\AppData\\Roaming\\NuGet\\NuGet.Config",

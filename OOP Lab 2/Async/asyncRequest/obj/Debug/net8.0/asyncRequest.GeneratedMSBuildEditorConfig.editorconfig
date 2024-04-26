@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = asyncRequest
-build_property.ProjectDir = C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\
+build_property.ProjectDir = C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
