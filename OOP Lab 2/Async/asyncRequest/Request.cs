@@ -27,11 +27,12 @@
             if (!response.IsSuccessStatusCode)
             {
                 Console.WriteLine($"URL{i+1}: Error: {response.StatusCode}");
-                return;
             }
-
-            var JSON = await response.Content.ReadAsStringAsync();
-            Console.WriteLine($"URL{i+1}: {JSON}");
+            else
+            {
+                var JSON = await response.Content.ReadAsStringAsync();
+                Console.WriteLine($"URL{i + 1}: {JSON}");
+            }
         }
     }
 }
